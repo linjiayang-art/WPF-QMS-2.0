@@ -1,0 +1,11 @@
+D:\A C# PROJECT\QMS.Share\bin\Debug\net8.0-windows\QMS.Share.deps.json
+D:\A C# PROJECT\QMS.Share\bin\Debug\net8.0-windows\QMS.Share.dll
+D:\A C# PROJECT\QMS.Share\bin\Debug\net8.0-windows\QMS.Share.pdb
+D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.GeneratedMSBuildEditorConfig.editorconfig
+D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.AssemblyInfoInputs.cache
+D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.AssemblyInfo.cs
+D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.csproj.CoreCompileInputs.cache
+D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.dll
+D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\refint\QMS.Share.dll
+D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.pdb
+D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\ref\QMS.Share.dll
