@@ -8,10 +8,7 @@ using System.Threading.Tasks;
 
 namespace QMS.Core
 {
-    /// <summary>
-    /// 导航基类
-    /// </summary>
-    public class NavigationViewModel : BindableBase, INavigationAware
+    public class NavigationViewModel: BindableBase, INavigationAware
     {
         /// <summary>
         /// 是否重用导航对象
@@ -29,7 +26,7 @@ namespace QMS.Core
 
         public virtual void OnNavigatedFrom(NavigationContext navigationContext)
         {
-     
+
         }
         /// <summary>
         /// 到达被执行触发
@@ -38,7 +35,8 @@ namespace QMS.Core
 
         public virtual void OnNavigatedTo(NavigationContext navigationContext)
         {
-          
+
         }
-    }
+    
+}
 }

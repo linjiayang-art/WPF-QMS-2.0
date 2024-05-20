@@ -45,15 +45,7 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
-            "Prism.Core": {
-              "target": "Package",
-              "version": "[8.1.97, )"
-            },
-            "Prism.Unity": {
-              "target": "Package",
-              "version": "[8.1.97, )"
-            },
-            "Prism.Wpf": {
+            "Prism.DryIoc": {
               "target": "Package",
               "version": "[8.1.97, )"
             }

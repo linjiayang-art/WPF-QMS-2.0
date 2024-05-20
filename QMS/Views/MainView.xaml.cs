@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace QMS.View
+namespace QMS.Views
 {
     /// <summary>
     /// MainView.xaml 的交互逻辑

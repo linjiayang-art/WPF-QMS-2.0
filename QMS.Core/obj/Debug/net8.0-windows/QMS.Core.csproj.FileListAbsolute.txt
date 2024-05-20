@@ -6,6 +6,7 @@ D:\A C# PROJECT\QMS.Core\obj\Debug\net8.0-windows\QMS.Core.GeneratedMSBuildEdito
 D:\A C# PROJECT\QMS.Core\obj\Debug\net8.0-windows\QMS.Core.AssemblyInfoInputs.cache
 D:\A C# PROJECT\QMS.Core\obj\Debug\net8.0-windows\QMS.Core.AssemblyInfo.cs
 D:\A C# PROJECT\QMS.Core\obj\Debug\net8.0-windows\QMS.Core.csproj.CoreCompileInputs.cache
+D:\A C# PROJECT\QMS.Core\obj\Debug\net8.0-windows\QMS.Core.sourcelink.json
 D:\A C# PROJECT\QMS.Core\obj\Debug\net8.0-windows\QMS.Core.dll
 D:\A C# PROJECT\QMS.Core\obj\Debug\net8.0-windows\refint\QMS.Core.dll
 D:\A C# PROJECT\QMS.Core\obj\Debug\net8.0-windows\QMS.Core.pdb

@@ -5,6 +5,7 @@ D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.GeneratedMSBuildEdi
 D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.AssemblyInfoInputs.cache
 D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.AssemblyInfo.cs
 D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.csproj.CoreCompileInputs.cache
+D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.sourcelink.json
 D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.dll
 D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\refint\QMS.Share.dll
 D:\A C# PROJECT\QMS.Share\obj\Debug\net8.0-windows\QMS.Share.pdb

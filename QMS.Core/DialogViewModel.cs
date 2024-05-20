@@ -30,12 +30,12 @@ namespace QMS.Core
 
         public void OnDialogClosed()
         {
-           
+
         }
 
-        public  virtual void OnDialogOpened(IDialogParameters parameters)
+        public virtual void OnDialogOpened(IDialogParameters parameters)
         {
-          
+
         }
     }
 }

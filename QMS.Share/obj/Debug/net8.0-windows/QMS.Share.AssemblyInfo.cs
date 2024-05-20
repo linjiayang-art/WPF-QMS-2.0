@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QMS.Share")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+199786140bc0f8a18721170e9b3b03f88f06a000")]
 [assembly: System.Reflection.AssemblyProductAttribute("QMS.Share")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QMS.Share")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
