@@ -27,15 +27,13 @@ namespace QMS.Services
         }
 
 
-
-
         public void InitMenus()
         {
 
             Items.Clear();
-            Items.Add(new NavigationItem("", "首页", ""));
+            Items.Add(new NavigationItem("MainView", "首页", ""));
 
-        
+  
         }
     }
 }

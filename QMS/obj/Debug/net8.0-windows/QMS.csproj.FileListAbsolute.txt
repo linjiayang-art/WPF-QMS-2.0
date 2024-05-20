@@ -30,3 +30,35 @@ D:\A C# PROJECT\QMS\obj\Debug\net8.0-windows\refint\QMS.dll
 D:\A C# PROJECT\QMS\obj\Debug\net8.0-windows\QMS.pdb
 D:\A C# PROJECT\QMS\obj\Debug\net8.0-windows\QMS.genruntimeconfig.cache
 D:\A C# PROJECT\QMS\obj\Debug\net8.0-windows\ref\QMS.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\QMS.exe
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\QMS.deps.json
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\QMS.runtimeconfig.json
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\QMS.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\QMS.pdb
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\DryIoc.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\Prism.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\Prism.DryIoc.Wpf.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\Prism.Wpf.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\Wpf.Ui.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\QMS.Core.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\bin\Debug\net8.0-windows\QMS.Core.pdb
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.csproj.AssemblyReference.cache
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\Views\MainView.g.cs
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\App.g.cs
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS_MarkupCompile.cache
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS_MarkupCompile.lref
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\App.baml
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\Views\MainView.baml
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.g.resources
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.AssemblyInfoInputs.cache
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.AssemblyInfo.cs
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.csproj.CoreCompileInputs.cache
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.sourcelink.json
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.csproj.Up2Date
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\refint\QMS.dll
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.pdb
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\QMS.genruntimeconfig.cache
+D:\A-QMS\WPF-QMS-2.0\QMS\obj\Debug\net8.0-windows\ref\QMS.dll

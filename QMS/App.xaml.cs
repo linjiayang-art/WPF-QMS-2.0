@@ -48,7 +48,7 @@ namespace QMS
         {
 
             containerRegistry.RegisterForNavigation<MainView, MainViewModel>();
-            //containerRegistry.RegisterForNavigation<INavigationMenuService, NavigationMenuService>();
+            containerRegistry.RegisterSingleton<INavigationMenuService, NavigationMenuService>();
         }
     }
 

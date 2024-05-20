@@ -11,5 +11,7 @@
     Height="450"
     prism:ViewModelLocator.AutoWireViewModel="True"
     mc:Ignorable="d">
-    <Grid />
+    <Grid >
+        <TextBlock Text="首页" FontSize="90"/>
+    </Grid>
 </Window>
