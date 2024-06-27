@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace QMS.Api.Context
+namespace QMS.Api.Models.QmsContext
 {
     public class BaseEntity
     {
